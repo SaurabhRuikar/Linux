@@ -1,0 +1,92 @@
+AWS INSTANCE 1 JAVA
+-----------------------------------------------------------------------------------------------------
+Login saurabh2830076@gmail.com and password - ******
+
+Created and instance of ubuntu 16.04 in AWS and launched it 
+
+Created a key pair named ec1 
+
+connected ec2 instance from existing terminal using 
+
+	cd Downloads/
+
+	ssh -i "ec1.pem" ubuntu@ec2-52-14-11-120.us-east-2.compute.amazonaws.com
+
+Installed java runtime using 
+
+	sudo apt install default-jdk
+
+	java -version
+	
+Output-	openjdk version "1.8.0_222"
+	OpenJDK Runtime Environment (build 1.8.0_222-8u222-b10-1ubuntu1~16.04.1-b10)
+	OpenJDK 64-Bit Server VM (build 25.222-b10, mixed mode)
+
+nano helloWorld.java
+
+Public class helloWorld.java
+{
+	public static void main(String [] args)
+	{
+		System.out.println("Hello World");
+	}
+}
+
+
+
+javac helloWorld.java
+java helloWorld
+
+Output- Hello World!
+-----------------------------------------------------------------------------------------------------
+
+AWS INSTANCE 2 MYSQL-
+
+-----------------------------------------------------------------------------------------------------
+
+Login saurabh2830076@gmail.com and password - ******
+
+Created and instance of ubuntu 16.04 in AWS and launched it 
+
+Created a key pair named abc
+
+connected ec2 instance from existing terminal using 
+
+	 cd Downloads/ 	
+	
+	 sudo ssh -i "abc.pem" ubuntu@ec2-18-191-71-57.us-east-2.compute.amazonaws.com
+
+Installed Mysql using 
+	
+	 sudo apt install mysql-server
+	
+Starting Mysql Server using
+   	 
+         mysql -u root -p
+ 
+Testing Mysql Server-
+
+
+mysql> create database abc;
+
+Query OK, 1 row affected (0.00 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| abc                |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+5 rows in set (0.00 sec)
+
+mysql> 
+
+-----------------------------------------------------------------------------------------------------		
+	
+
+ 
+
