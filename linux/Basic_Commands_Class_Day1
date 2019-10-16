@@ -1,0 +1,214 @@
+1786  who am i
+ 1787  whoami
+ 1788  hostname
+ 1789  sqlplus dbda22/dbda22@192.168.1.67/oracle;
+ 1790  reboot
+ 1791  cat /etc/os-release
+ 1792  cat
+ 1793  cd Desktop
+ 1794  cat getInfo.txt
+ 1795  touch 1.txt
+ 1796  nano 1.txt
+ 1797  touch hello.txt
+ 1798  nano hello.txt
+ 1799  cat hello.txt
+ 1800  nano hello.txt
+ 1801  cat hello.txt
+ 1802  ls
+ 1803  dir
+ 1804  man touch
+ 1805  man ls
+ 1806  pwd
+ 1807  whoami
+ 1808  hostname
+ 1809  uname
+ 1810  ps
+ 1811  history
+ 1812  last reboot
+ 1813  history
+ 1814  rebbot
+ 1815  reboot
+ 1816  last reboot
+ 1817  uptime
+ 1818  date
+ 1819  cal
+ 1820  date dd
+ 1821  date 
+ 1822  man date
+ 1823  date %d
+ 1824  %d
+ 1825  man %d
+ 1826  man date
+ 1827  date + %d
+ 1828  date +%d
+ 1829  date +%D
+ 1830  date +%m
+ 1831  date +%Y
+ 1832  date +%m
+ 1833  date +%Y
+ 1834  date +%m
+ 1835  date +%M
+ 1836  man date
+ 1837  free -m
+ 1838  add user
+ 1839  who
+ 1840  whomai
+ 1841  whoami
+ 1842  who
+ 1843  id
+ 1844  last
+ 1845  man useradd
+ 1846  clear
+ 1847  useradd saurabhr
+ 1848  sudo useradd saurabhr
+ 1849  man userkill
+ 1850  touch 2.txt
+ 1851  cd Desktop
+ 1852  touch 2.txt
+ 1853  sudo userdel saurabhr
+ 1854  dir
+ 1855  ls
+ 1856  last
+ 1857  ifconfig
+ 1858  man ifconfig
+ 1859  ifconfig -a
+ 1860  ifconfig -s
+ 1861  ifconfig -a
+ 1862  ping 192.168.1.35
+ 1863  ping 192.168.1.34
+ 1864  ping 192.168.1.88
+ 1865  ping 192.168.1.34
+ 1866  ping 192.168.1.88
+ 1867  who
+ 1868  whoami
+ 1869  who
+ 1870  gcc --version 
+ 1871  gcc -v
+ 1872  clear
+ 1873  cd ..
+ 1874  ls
+ 1875  mkdir bigdata
+ 1876  ls
+ 1877  cd bigdata
+ 1878  ls
+ 1879  mkdir java 
+ 1880  mkdir c
+ 1881  mkdir cpp
+ 1882  ls
+ 1883  mkdir python
+ 1884  rmdir python
+ 1885  ls
+ 1886  rmdir pilab
+ 1887  mkdir pilab
+ 1888  cd c
+ 1889  ls
+ 1890  touch hello.c 
+ 1891  ls
+ 1892  cat hello.c
+ 1893  nano hello.c
+ 1894  touch search.c
+ 1895  ls
+ 1896  touch collection.c multitask.c
+ 1897  ls
+ 1898  cat hello,c
+ 1899  cat hello.c
+ 1900  nano hello.c
+ 1901  vi hello.c
+ 1902  ls
+ 1903  nano hello.c
+ 1904  vi hello.c
+ 1905  nano hello.c
+ 1906  vi hello.c
+ 1907  nano hello.c
+ 1908  cat hello.c
+ 1909  gcc hello.c
+ 1910  ls
+ 1911  ./a.out
+ 1912  gcc -v
+ 1913  cd ..
+ 1914  ls
+ 1915  cd cpp
+ 1916  ls
+ 1917  touch hello.cpp
+ 1918  ls
+ 1919  nano hello.cpp
+ 1920  cat hello.cpp
+ 1921  g++ hello.cpp
+ 1922  nano hello.cpp
+ 1923  g++ hello.cpp
+ 1924  ls
+ 1925  cat hello.c
+ 1926  cat hello.cpp
+ 1927  nano hello.cpp
+ 1928  g++ hello.cpp
+ 1929  ls
+ 1930  ./a.out
+ 1931  gcc hello.cpp -o b
+ 1932  g++ hello.cpp -o b
+ 1933  ls
+ 1934  ./b
+ 1935  cd .
+ 1936  cd ..
+ 1937  java -v
+ 1938  java --version
+ 1939  java -version
+ 1940  sudo apt install default-jre
+ 1941  java -version
+ 1942  java --version
+ 1943  java -version
+ 1944  ls
+ 1945  cd bigdata
+ 1946  ls
+ 1947  cd java
+ 1948  ls
+ 1949  touch hello.java
+ 1950  ls
+ 1951  nano hello.java
+ 1952  cd ..
+ 1953  ls
+ 1954  man locate
+ 1955  man find
+ 1956  man locate
+ 1957  find
+ 1958  ls
+ 1959  search a.txt
+ 1960  find /home -name *.c
+ 1961  cd Desktop
+ 1962  touch hello.c
+ 1963  find /home/Desktop -name *.c
+ 1964  find /Desktop -name *.c
+ 1965  find -name *.c
+ 1966  find /Dektop -name *.c
+ 1967  find /Desktop -name *.c
+ 1968  cd ..
+ 1969  find -bigdata *.c
+ 1970  find bigdata *.c
+ 1971  sudo apt install find
+ 1972  sudo apt get install find
+ 1973  sudo apt get-install find
+ 1974  sudo apt install find
+ 1975  find bigdata .c
+ 1976  find bigdata c
+ 1977  find /home/ -bigdata "*.c"
+ 1978  find /home/ bigdata "*.c"
+ 1979  cd bigdata
+ 1980  ls
+ 1981  cd ..
+ 1982  ls
+ 1983  cp a.txt hey.txt
+ 1984  cat hey.txt
+ 1985  cat a.txt
+ 1986  diff a.txt hey.txt
+ 1987  nano a.txt
+ 1988  diff a.txt hey.txt
+ 1989  cat a.txt
+ 1990  find bigdata
+ 1991  find bigdata *.c
+ 1992  find bigdata .c
+ 1993  find bigdata -name * .c
+ 1994  ls
+ 1995  find /home/student -name "*.c"
+ 1996  find /home/student/bigdata -name "*.c"
+ 1997  history
+
+
