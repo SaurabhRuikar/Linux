@@ -1,0 +1,14 @@
+
+arith.sh
+arraysimple.sh
+combinestr.sh
+files.txt
+hello.sh
+ifnested.sh
+if_simple.sh
+main.sh
+pattern.sh
+printtitle.sh
+readarray.sh
+swap.sh
+while.sh

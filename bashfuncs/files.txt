@@ -1,0 +1,14 @@
+total 48
+-rw-r--r-- 1 saurabh14 saurabh14 310 Oct 13 20:40 arith.sh
+-rw-r--r-- 1 saurabh14 saurabh14 155 Oct 13 20:55 arraysimple.sh
+-rw-r--r-- 1 saurabh14 saurabh14 246 Oct 13 20:51 combinestr.sh
+-rw-r--r-- 1 saurabh14 saurabh14   0 Oct 13 21:12 files.txt
+-rw-r--r-- 1 saurabh14 saurabh14 273 Oct 13 20:25 hello.sh
+-rw-r--r-- 1 saurabh14 saurabh14 187 Oct 13 20:33 ifnested.sh
+-rw-r--r-- 1 saurabh14 saurabh14 175 Oct 13 20:31 if_simple.sh
+-rw-r--r-- 1 saurabh14 saurabh14 310 Oct 13 20:20 main.sh
+-rw-r--r-- 1 saurabh14 saurabh14 185 Oct 13 20:44 pattern.sh
+-rw-r--r-- 1 saurabh14 saurabh14 128 Oct 13 21:12 printtitle.sh
+-rw-r--r-- 1 saurabh14 saurabh14 131 Oct 13 20:58 readarray.sh
+-rw-r--r-- 1 saurabh14 saurabh14 205 Oct 13 20:36 swap.sh
+-rw-r--r-- 1 saurabh14 saurabh14 154 Oct 13 20:47 while.sh
